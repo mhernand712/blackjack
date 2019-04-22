@@ -1,8 +1,9 @@
 // carta.h
-// Declaración de la clase Carta
+// DeclaraciÃ³n de la clase Carta
 
 #ifndef CARTA_H
 #define CARTA_H
+//prueba de modificacion de github
 
 #define MAX_RANGO	13
 #define	MAX_PALOS	4
